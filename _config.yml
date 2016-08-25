@@ -1,0 +1,14 @@
+layout_spectrum: 0.1286064
+color:
+  saturation: 0.173981
+  lightness: 0.9266817
+  brandStrength: 0.162997
+  brandColors:
+    - '#E6D1D0'
+    - '#C0B0B0'
+    - '#979691'
+    - '#4A5544'
+    - '#282117'
+  rhythmicContrast: 0.1628114
+typography_spectrum: 0.6968852
+name: AvenueEssentials
